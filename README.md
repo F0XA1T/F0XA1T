@@ -1,4 +1,4 @@
-## I'm currently a CS freshman at Bilkent University
+## Currently a CS freshman at Bilkent University
 
 
 
