@@ -1,4 +1,6 @@
-## Hi there 👋
+## I'm currently an undergraduate CS student at Bilkent University
+
+
 
 <!--
 **F0XA1T/F0XA1T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
